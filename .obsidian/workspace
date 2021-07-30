@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3bddafa94e1f7407",
+        "id": "71411867ce762122",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -105,12 +105,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3bddafa94e1f7407",
+  "active": "71411867ce762122",
   "lastOpenFiles": [
     "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/moments-of-inertia/mois-1.pdf",
-    "Research-Notes/Ragnarsson-Book/Untitled.md",
     "Research-Notes/Research-Materials.md",
+    "Research-Notes/Ragnarsson-Book/Untitled.md",
     "README.md",
     "Resources/Research-Materials.md",
     "Resources/Nuclear-Structure/Untitled.md",
