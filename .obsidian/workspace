@@ -7,9 +7,25 @@
         "id": "add668c6b60d6b93",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Resources/Nuclear-Structure/collective-motion-unified-model.md",
+            "mode": "source"
+          }
+        },
+        "group": "6f2fa5c424bd5555"
+      },
+      {
+        "id": "a2e3ad256d5691bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Resources/Nuclear-Structure/collective-motion-unified-model.md",
+            "mode": "source"
+          }
+        },
+        "group": "6f2fa5c424bd5555"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Resources/Nuclear-Structure/collective-motion-unified-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -72,6 +89,17 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d0c7c70ca2bc310",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           }
@@ -83,5 +111,9 @@
     "collapsed": true
   },
   "active": "add668c6b60d6b93",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Resources/Nuclear-Structure/Untitled.md",
+    "Resources/Research-Materials.md",
+    "Resources/Untitled.md"
+  ]
 }
