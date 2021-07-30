@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Research-Notes/Research-Materials.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Research-Notes/Research-Materials.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Research-Notes/Research-Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "add668c6b60d6b93",
   "lastOpenFiles": [
+    "Research-Notes/Research-Materials.md",
     "README.md",
     "Resources/Research-Materials.md",
     "Resources/Nuclear-Structure/Untitled.md",

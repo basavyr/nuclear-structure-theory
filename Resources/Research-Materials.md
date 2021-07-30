@@ -1,4 +1,0 @@
-# Research Materials
-
-## Collection Index
-
