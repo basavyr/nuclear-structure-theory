@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71411867ce762122",
+        "id": "a6f9b3258219dba9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,8 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "71411867ce762122",
+  "active": "a6f9b3258219dba9",
   "lastOpenFiles": [
+    "Research-Materials/Ragnarsson-Book-Notes/Index/nilsson-model/Untitled.md",
+    "Research-Materials/Ragnarsson-Book-Notes/Index/Untitled.md",
     "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/moments-of-inertia/mois-1.pdf",
     "Research-Notes/Research-Materials.md",
