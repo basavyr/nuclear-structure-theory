@@ -29,3 +29,8 @@
 	- $\vec{R}$ is the *collective angular momentum*. For pure collective rotations, the total angular momentum (it is also referred to as total spin) $\vec{I}$ is equal to $\vec{R}$. The spectrum thus takes the form:
 	- $$E_I=\frac{\hbar^2}{2\mathcal{J}}I(I+1)$$
 	- Since only deformed nuclei exhibit rotational spectra, it is possible to determine which nuclei have deformations, by studying the presence of rotational bands.
+	- ![[Pasted image 20210802200020.png]]
+	- The moment of inertia $\mathcal{J}$ can be extracted from measured rotational bands. The values for deformed nuclei in rare earth region are exhibited in the figure below, together with the calculated values.
+	- ![[Pasted image 20210802200209.png]]
+		- The experimental values are generally 25-50% of the **rigid body values**, and they can be calculated with any accuracy only when pairing correlations are introduced.
+		- Simpler way to get an estimate of $\mathcal{J}$  is within the two-fluid model, where it is assumed that only nucleons outside the largest possible central sphere give any contribution to $\mathcal{J}$.
