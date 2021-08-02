@@ -4,5 +4,10 @@
   "foldHeading": true,
   "showLineNumber": true,
   "attachmentFolderPath": "assets",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Mottelson",
+    "excitations",
+    "quadrupole"
+  ]
 }
