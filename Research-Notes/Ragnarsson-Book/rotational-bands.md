@@ -34,3 +34,6 @@
 	- ![[Pasted image 20210802200209.png]]
 		- The experimental values are generally 25-50% of the **rigid body values**, and they can be calculated with any accuracy only when pairing correlations are introduced.
 		- Simpler way to get an estimate of $\mathcal{J}$  is within the two-fluid model, where it is assumed that only nucleons outside the largest possible central sphere give any contribution to $\mathcal{J}$.
+		- Chapter 6 ->  the valence particle outside a spherical core determines the ground state angular momentum. This is specific to single-particle effects, thus, several valence particles may partly or fully align their angular momentum vectors to build high spin states.
+		- In deformed nuclei moreover, similar non-collective components may be present -> mixture of single-particle and collective components
+		- with increasing spin, it becomes necessary to consider single-particle contributions from more particles, and at some point, it seems more appropriate to consider also the collective component from a microscopic pov.
