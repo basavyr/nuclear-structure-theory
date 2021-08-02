@@ -7,8 +7,11 @@
         "id": "a6f9b3258219dba9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +107,7 @@
   },
   "active": "a6f9b3258219dba9",
   "lastOpenFiles": [
+    "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/nilsson-model/Untitled.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/Untitled.md",
     "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
@@ -111,7 +116,6 @@
     "Research-Notes/Ragnarsson-Book/Untitled.md",
     "README.md",
     "Resources/Research-Materials.md",
-    "Resources/Nuclear-Structure/Untitled.md",
-    "Resources/Untitled.md"
+    "Resources/Nuclear-Structure/Untitled.md"
   ]
 }
