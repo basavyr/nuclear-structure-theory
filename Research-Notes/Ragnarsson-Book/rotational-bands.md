@@ -20,3 +20,6 @@
 - shape vibrations are described as the variation around the equilibrium value of the $\alpha_{\lambda\mu}$ parameters introduced in C4
 - Nuclear quadrupole vibrations: lab system -> five $\alpha_{2\mu}$ shape parameters
 	- body-fixed system: two parameters describe the deformation and three describing the orientation using Euler angles
+	-  one cannot define any collective rotation around a symmetry axis
+	-  This is seen from the fact that such a rotation would change only  
+a trivial phase factor in the wave function
