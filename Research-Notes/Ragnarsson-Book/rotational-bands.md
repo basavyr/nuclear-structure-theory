@@ -1,0 +1,1 @@
+# Rotational bands - the particle rotor model

@@ -1,4 +1,4 @@
-# Nilsson Potential 
+# Nilsson Potential
 
 - Nilsson potential, see **modified oscillator**
 - Nilsson-Strutinsky model, see **shell correction method**

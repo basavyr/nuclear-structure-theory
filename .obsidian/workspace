@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
+            "file": "Research-Notes/Ragnarsson-Book/rotational-bands.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f32de8fc600a76fd",
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
+                "file": "Research-Notes/Ragnarsson-Book/rotational-bands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,13 +108,13 @@
   },
   "active": "a6f9b3258219dba9",
   "lastOpenFiles": [
+    "Research-Notes/Ragnarsson-Book/Untitled.md",
     "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/nilsson-model/Untitled.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/Untitled.md",
     "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/moments-of-inertia/mois-1.pdf",
     "Research-Notes/Research-Materials.md",
-    "Research-Notes/Ragnarsson-Book/Untitled.md",
     "README.md",
     "Resources/Research-Materials.md",
     "Resources/Nuclear-Structure/Untitled.md"
