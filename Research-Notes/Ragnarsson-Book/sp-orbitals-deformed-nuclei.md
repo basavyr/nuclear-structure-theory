@@ -17,4 +17,22 @@
 - ![[Pasted image 20210803064941.png]]
 - The anisotropy appears due to the difference between $\omega_\perp$ and $\omega_z$
 - Elongation parameter introduced by Nilsson $\epslion$:
-- ![[Pasted image 20210803065142.png]] 
+- ![[Pasted image 20210803065142.png]]
+
+
+
+
+## Modified oscillator (MO) potential
+
+![[Pasted image 20210803070225.png]]
+
+- the last term in the parentheses has the effect of interpolating between the oscillator and the square well -> reproduces the Woods-Saxon radial shape
+- The $l^2$ term alone would result in a general compression of the shells
+- This is avoided by subtracting the average value of $\langle l^2 \rangle$
+- ![[Pasted image 20210803070530.png]]
+
+For the atomic case (the electron case), the total wave-function is written as a product of wave function: ![[Pasted image 20210803085737.png]]
+where the one-electron wave-functions are given by $\phi_i$.
+
+- the potential seen by electron $i$ under the influence of the nucleus and the remaining $Z-1$ electrons placed statically in the nucleus:
+- ![[Pasted image 20210803085849.png]], which leads to the one-particle Schrodinger equation: ![[Pasted image 20210803085918.png]] with the energy eigenvalues $e_i$.
