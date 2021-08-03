@@ -36,3 +36,7 @@ where the one-electron wave-functions are given by $\phi_i$.
 
 - the potential seen by electron $i$ under the influence of the nucleus and the remaining $Z-1$ electrons placed statically in the nucleus:
 - ![[Pasted image 20210803085849.png]], which leads to the one-particle Schrodinger equation: ![[Pasted image 20210803085918.png]] with the energy eigenvalues $e_i$.
+
+In the nuclear case, there is no central potential -> the two-particle interaction is not fully determined
+
+- A feasible approach is to use the **mean-field potential**: ![[Pasted image 20210803090154.png]] where the two-particle interactions $V_{ij}$ in the general case not only depend on distance but also on angular momentum and spin

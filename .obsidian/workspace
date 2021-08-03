@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
+            "file": "nuclear-1p-potential-spherical.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
+            "file": "nuclear-1p-potential-spherical.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
+                "file": "nuclear-1p-potential-spherical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +121,7 @@
   },
   "active": "a6f9b3258219dba9",
   "lastOpenFiles": [
+    "Untitled.md",
     "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
     "Research-Notes/Ragnarsson-Book/Untitled.md",
     "Research-Notes/Ragnarsson-Book/rotational-bands.md",
@@ -129,7 +130,6 @@
     "Research-Materials/Ragnarsson-Book-Notes/Index/Untitled.md",
     "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
     "Research-Materials/Ragnarsson-Book-Notes/Index/moments-of-inertia/mois-1.pdf",
-    "Research-Notes/Research-Materials.md",
-    "README.md"
+    "Research-Notes/Research-Materials.md"
   ]
 }
