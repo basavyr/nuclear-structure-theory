@@ -44,3 +44,22 @@ The Schrodinger equation for the radial wave function $R(r)$ is given by the fol
 	- The calculation of the splitting caused by the spin-orbit term in the potential $V_{LS}$ requires the construction of new wave-functions that are eigenfunctions of $\vec{l}\cdot\vec{s}$.
 
 #axial-vector -> ![[Pasted image 20210804145628.png]]
+
+### Obtaining the degeneracy induced via the spin-orbit coupling
+
+- Start with $$\vec{l}+\vec{s}=\vec{j}$$ and furthermore, $(\vec{l}+\vec{s})^2=\vec{j}^2$, i.e., $$\vec{l}\cdot\vec{s}=\frac{1}{2}\left(\vec{j}^2-\vec{l}^2-\vec{s}^2\right)$$
+- There exists a possible way of constructing wave-functions for which $l$, $j$ and $s$ are **good quantum numbers**, and therefore $\vec{l}\cdot\vec{s}$ is an **eigenoperator**.
+
+Results:
+
+$$\vec{l}\cdot\vec{s}\to\frac{1}{2}[j(j+1)-l(l+1)-s(s+1)]$$
+
+and: 
+
+![[Pasted image 20210804150639.png]]
+
+> **Observation:** Out of the $2\cdot(2l+1)$ states with a given $l$, one can form one group of states with $j=l+\frac{1}{2}$ and oe with $j=l-\frac{1}{2}$. $2j+1=2l+2$ for the former and $2j+1=2l$ for the latter.
+
+- These two groups separate energy-wise. 
+
+> **Example:** the $g$-shell withh a degeneracy $2(2l+1)=18$ splits up into $g_{9/2}$ (degeneracy 10) and $g_{7/2}$ (degeneracy 8)
