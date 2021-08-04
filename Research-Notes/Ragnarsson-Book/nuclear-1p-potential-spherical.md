@@ -72,3 +72,12 @@ $$V_{WS}=V(r)+V_{LS}+V_C$$
 with ![[Pasted image 20210804151250.png]] and ![[Pasted image 20210804151257.png]], where $V_{SO}$ was used to indicate that one might choose the radial function entering into $V_{LS}$ somewhat different from the central potential $V(r)$.
 
 The Coulomb potential, $V_C$, enters only for protons and it is generated a charge $(Z-1)e$, which is uniformly distributed inside the nuclear volume (or possibly with a diffuse surface).
+
+In practice, the main disadvantage of the WS potential is that it cannot be solved analytically. 
+
+However, the **modified harmonic oscillator potential** (Nilsson 1955):
+![[Pasted image 20210804154207.png]]
+
+- The past term has the effect of interpolating between the oscillator and the square well, reproducing effectively the WS radial shape
+- The $l^2$ term would result in a general compression of the shells
+- The average value of $<l^2>$ taken over each $N$-shell is subtracted ![[Pasted image 20210804154344.png]]
