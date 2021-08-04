@@ -25,3 +25,7 @@ The Schrodinger equation for the radial wave function $R(r)$ is given by the fol
 - ![[Pasted image 20210804123001.png]] ![[Pasted image 20210804123014.png]] ![[Pasted image 20210804123042.png]]
 
 ## Spin-orbit term
+
+- One required task is to reproduce the energy gap for 50 protons or neutrons.
+- This can be achieved if the 1g-shell splits into $g_{9/2$} and $g_{7/2}$
+- In a similar way, the splitting of the 1h-shell into $h_{11/2}$ and $h_{9/2}$ leads to a gap for a particle number of 82, and so on.
