@@ -36,3 +36,5 @@ The Schrodinger equation for the radial wave function $R(r)$ is given by the fol
 	- The electron moving with velocity $\vec{v}$, it experiences a magnetic field $\vec{B}$, proportional to $\vec{v}\times\vec{E}$: $$\vec{B}=\epsilon_0\mu_0\vec{v}\times\vec{E}$$
 - In the nuclear case there is indeed also such a term of electromagnetic origin
 	- The nuclear spin-orbit however, is of strong-interaction origin, and it can be understood from details of two-body interaction
+	- The nuclear forces must preserve **parity**, which requires that the nuclear potential is a scalar
+	- The simplest conceivable scalar that contains the vector $\vec{s}$ seems to be $$V_{LS}\propto \vec{s}\cdot(\vec{p}\times\nabla V)$$
