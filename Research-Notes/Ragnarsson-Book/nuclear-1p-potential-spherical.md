@@ -63,3 +63,12 @@ and:
 - These two groups separate energy-wise. 
 
 > **Example:** the $g$-shell withh a degeneracy $2(2l+1)=18$ splits up into $g_{9/2}$ (degeneracy 10) and $g_{7/2}$ (degeneracy 8)
+
+## Realistic nuclear one-body potentials
+
+With the addition of the spin-orbit term, the Woods-Saxon (WS) potential takes the form:
+$$V_{WS}=V(r)+V_{LS}+V_C$$
+
+with ![[Pasted image 20210804151250.png]] and ![[Pasted image 20210804151257.png]], where $V_{SO}$ was used to indicate that one might choose the radial function entering into $V_{LS}$ somewhat different from the central potential $V(r)$.
+
+The Coulomb potential, $V_C$, enters only for protons and it is generated a charge $(Z-1)e$, which is uniformly distributed inside the nuclear volume (or possibly with a diffuse surface).
