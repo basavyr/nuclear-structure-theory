@@ -81,3 +81,5 @@ However, the **modified harmonic oscillator potential** (Nilsson 1955):
 - The past term has the effect of interpolating between the oscillator and the square well, reproducing effectively the WS radial shape
 - The $l^2$ term would result in a general compression of the shells
 - The average value of $<l^2>$ taken over each $N$-shell is subtracted ![[Pasted image 20210804154344.png]]
+
+![](../../Research-Materials/modified_harmonic_oscillator.png)
