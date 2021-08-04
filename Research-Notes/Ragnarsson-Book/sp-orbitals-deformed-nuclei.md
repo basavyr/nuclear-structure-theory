@@ -40,3 +40,11 @@ where the one-electron wave-functions are given by $\phi_i$.
 In the nuclear case, there is no central potential -> the two-particle interaction is not fully determined
 
 - A feasible approach is to use the **mean-field potential**: ![[Pasted image 20210803090154.png]] where the two-particle interactions $V_{ij}$ in the general case not only depend on distance but also on angular momentum and spin
+
+## Perturbation treatment for small $\epsilon$
+
+Study of the Hamiltonian for small $\epsilon$-values.
+
+$$H=H_0+\epsilon h'+\mathcal{O}(\epsilon^2)+\dots$$
+
+where $H_0$ is the spherical shell model Hamiltonian
