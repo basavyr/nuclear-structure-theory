@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nuclear-1p-potential-spherical.md",
+            "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nuclear-1p-potential-spherical.md",
+            "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
             "mode": "preview"
           }
         },
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f32de8fc600a76fd",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nuclear-1p-potential-spherical.md",
+                "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
