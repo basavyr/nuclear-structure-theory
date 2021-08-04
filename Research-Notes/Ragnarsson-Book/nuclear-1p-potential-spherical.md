@@ -14,4 +14,14 @@ The Schrodinger equation for the radial wave function $R(r)$ is given by the fol
 
 - there is a degeneracy in addition to that caused by the spherical symmetry
 - By a *remarkable coincidence*, the second root $2s$ for $l=0$ of the potential exactly coincides with the first root $1d$ of the $l=2$ potential
-- This coincidence is understood in terms of the $SU_3$ group.
+- This coincidence is understood in terms of the $SU_3$ group. See more details about the $SU_3$ group [here](../../Research-Materials/su3.pdf).
+
+### Infinite square-well potential
+
+- The $l$-degeneracy of the oscillator shells is split such that the $1d$ falls below $2s$, $1g$ below $2d$, the latter in turn below $3s$
+- The splitting can be understood if one considers the effective radial potential where the **centrifugal potential** has been added to $V(r)$: $$V_\text{eff}=V(r)+\frac{\hbar^2}{2Mr^2}l(l+1)$$
+- The potential above enters in the separated radial equation
+- The level ordering in the Woods-Saxon case falls somewhere between the two extremes, the soft-surface harmonic oscillator, and the hard-surface square well. The same level ordering is obtained y the addition of a term $$V_\text{corr}=-\mu'\hbar\omega_0l(l+1)$$ to the harmonic oscillator potential.
+- ![[Pasted image 20210804123001.png]] ![[Pasted image 20210804123014.png]] ![[Pasted image 20210804123042.png]]
+
+## Spin-orbit term
