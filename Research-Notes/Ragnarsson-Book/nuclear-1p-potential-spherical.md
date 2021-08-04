@@ -9,3 +9,9 @@ The Schrodinger equation for the radial wave function $R(r)$ is given by the fol
 
 - A common type of radial potential is the Woods-Saxon potential: ![[Pasted image 20210804092608.png]]. However, the Schrodinger can only be **solved numerically** for this kind of potential.
 - The WS potential falls somewhere between the **harmonic oscillator** and the **finite square well** potentials
+
+### Harmonic oscillator potential
+
+- there is a degeneracy in addition to that caused by the spherical symmetry
+- By a *remarkable coincidence*, the second root $2s$ for $l=0$ of the potential exactly coincides with the first root $1d$ of the $l=2$ potential
+- This coincidence is understood in terms of the $SU_3$ group.
