@@ -27,5 +27,12 @@ The Schrodinger equation for the radial wave function $R(r)$ is given by the fol
 ## Spin-orbit term
 
 - One required task is to reproduce the energy gap for 50 protons or neutrons.
-- This can be achieved if the 1g-shell splits into $g_{9/2$} and $g_{7/2}$
+- This can be achieved if the 1g-shell splits into $g_{9/2}$ and $g_{7/2}$
 - In a similar way, the splitting of the 1h-shell into $h_{11/2}$ and $h_{9/2}$ leads to a gap for a particle number of 82, and so on.
+- The energy thus depend on whether $l$ and $s$ (vectors) are **parallel** or **anti-parallel**.
+- A term in the potential that takes into account this coupling was introduced by Haxel, Jensen, Siiss and M.G. Mayer.
+- A spin-orbit term of this type was know in the electron shell
+	- Source of this term is the coupling energy of the electron in the intrinsic magnetic field seen by the electron
+	- The electron moving with velocity $\vec{v}$, it experiences a magnetic field $\vec{B}$, proportional to $\vec{v}\times\vec{E}$: $$\vec{B}=\epsilon_0\mu_0\vec{v}\times\vec{E}$$
+- In the nuclear case there is indeed also such a term of electromagnetic origin
+	- The nuclear spin-orbit however, is of strong-interaction origin, and it can be understood from details of two-body interaction
