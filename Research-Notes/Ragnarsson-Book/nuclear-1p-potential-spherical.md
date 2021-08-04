@@ -37,4 +37,10 @@ The Schrodinger equation for the radial wave function $R(r)$ is given by the fol
 - In the nuclear case there is indeed also such a term of electromagnetic origin
 	- The nuclear spin-orbit however, is of strong-interaction origin, and it can be understood from details of two-body interaction
 	- The nuclear forces must preserve **parity**, which requires that the nuclear potential is a scalar
-	- The simplest conceivable scalar that contains the vector $\vec{s}$ seems to be $$V_{LS}\propto \vec{s}\cdot(\vec{p}\times\nabla V)$$
+	- The simplest conceivable scalar that contains the vector $\vec{s}$ seems to be $$V_{LS}\propto \vec{s}\cdot(\vec{p}\times\nabla V)$$ 
+	- For a spherical symmetry we have: $$\nabla V=\frac{\vec{r}}{r}\frac{\partial \vec{V}}{\partial r}$$
+	- or $$V_{LS}\propto\frac{1}{r}\frac{\partial V}{\partial r}\vec{s}\cdot\vec{l}$$
+	- For the pure harmonic oscillator case, the spin-orbit term becomes simple: $$\frac{1}{r}\frac{\partial V}{\partial r}=M\omega_0^2=\text{const.}$$
+	- The calculation of the splitting caused by the spin-orbit term in the potential $V_{LS}$ requires the construction of new wave-functions that are eigenfunctions of $\vec{l}\cdot\vec{s}$.
+
+#axial-vector -> ![[Pasted image 20210804145628.png]]
