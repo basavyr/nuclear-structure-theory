@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
+            "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
+            "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
+                "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +121,8 @@
   },
   "active": "3506e3a9ace83622",
   "lastOpenFiles": [
-    "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
     "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
+    "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
     "Research-Notes/Group-Theory/Untitled.md",
     "Research-Materials/su3.pdf",
     "Untitled.md",

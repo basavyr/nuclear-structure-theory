@@ -83,3 +83,11 @@ However, the **modified harmonic oscillator potential** (Nilsson 1955):
 - The average value of $<l^2>$ taken over each $N$-shell is subtracted ![[Pasted image 20210804154344.png]]
 
 ![](../../Research-Materials/modified_harmonic_oscillator.png)
+
+## Key aspects regarding degeneracy in the 1-particle spherical potential
+
+- The degeneracy of an $N'$-shell is $$(N'+1)(N'+2)$$
+- The first parameter of the modified HO potential is $\omega_0$
+- The radial coordinate of the nuclear wave function is $(M\omega_0/\hbar)^{1/2}\cdot r$
+- The **characteristic oscillator length** is $(\hbar/M\omega_0)^{1/2}$.
+- From the wave functions one can calculate the total nuclear density as a sum of all the single-particle densities from which the average radius could be studied and compared with experiments

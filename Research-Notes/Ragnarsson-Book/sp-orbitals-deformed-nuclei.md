@@ -16,7 +16,7 @@
 - the potential extension along the nuclear $z$-axis (3-axis) being different from the extension along the $x$- and $y$-axes, we may write the single-particle Hamiltonian in the form:
 - ![[Pasted image 20210803064941.png]]
 - The anisotropy appears due to the difference between $\omega_\perp$ and $\omega_z$
-- Elongation parameter introduced by Nilsson $\epslion$:
+- Elongation parameter introduced by Nilsson $\epsilon$:
 - ![[Pasted image 20210803065142.png]]
 
 
