@@ -48,3 +48,8 @@ Study of the Hamiltonian for small $\epsilon$-values.
 $$H=H_0+\epsilon h'+\mathcal{O}(\epsilon^2)+\dots$$
 
 where $H_0$ is the spherical shell model Hamiltonian
+
+- in the case of deformed nuclei, the potential is extended along the nuclear $z$-axis (i.e., the 3-axis), making it different from the potential extension along the $x$- and $y$- axes, respectively. The Hamiltonian for the system will be written in terms of the oscillator lengths corresponding to each of the three axes as such:
+- ![[Pasted image 20210805075856.png]]
+
+In the limit of **small** $\epsilon$, the Hamiltonian, expanded in powers of the elongation parameter $\epsilon$ becomes: $$H=H_0+\epsilon h'+\mathcal{O}(\epsilon^2)+\dots$$ and the *first-order* term is $$\epsilon h'=\epsilon\frac{M}{2}\omega_0^2\frac{2}{3}(x^2+y^2-2z^2)=\frac{M}{2}\omega_0^2\frac{4}{3}\epsilon r^2 P_2(\cos\theta)$$

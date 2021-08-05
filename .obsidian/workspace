@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
+            "file": "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
+            "file": "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
             "mode": "preview"
           }
         },
@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
+                "file": "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,15 +122,15 @@
   },
   "active": "3506e3a9ace83622",
   "lastOpenFiles": [
-    "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
+    "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
+    "Research-Notes/Ragnarsson-Book/Untitled.md",
     "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
+    "Research-Notes/Ragnarsson-Book/nuclear-1p-potential-spherical.md",
     "Research-Notes/Group-Theory/Untitled.md",
     "Research-Materials/su3.pdf",
     "Untitled.md",
-    "Research-Notes/Ragnarsson-Book/Untitled.md",
     "Research-Notes/Ragnarsson-Book/rotational-bands.md",
     "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
-    "Research-Materials/Ragnarsson-Book-Notes/Index/nilsson-model/Untitled.md",
-    "Research-Materials/Ragnarsson-Book-Notes/Index/Untitled.md"
+    "Research-Materials/Ragnarsson-Book-Notes/Index/nilsson-model/Untitled.md"
   ]
 }
