@@ -91,3 +91,7 @@ However, the **modified harmonic oscillator potential** (Nilsson 1955):
 - The radial coordinate of the nuclear wave function is $(M\omega_0/\hbar)^{1/2}\cdot r$
 - The **characteristic oscillator length** is $(\hbar/M\omega_0)^{1/2}$.
 - From the wave functions one can calculate the total nuclear density as a sum of all the single-particle densities from which the average radius could be studied and compared with experiments
+- A simple quantity for oscillator wave functions is $$\langle r_i^2 \rangle=\left(N_i+\frac{3}{2}\right)\frac{\hbar}{M\omega_0}$$
+- The average *root mean square radius* $R_{RMS}$ is defined as: $$R_{RMS}^2=\frac{5}{3}\langle r^2\rangle=\frac{5}{3}\frac{1}{A}\sum_i\langle r_i^2\rangle$$
+- The root mean squared radius for filled oscillator shells is: ![[Pasted image 20210805071546.png]]
+- Thus, one obtains the oscillator length: ![[Pasted image 20210805071607.png]]
