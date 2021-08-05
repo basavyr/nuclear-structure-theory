@@ -20,3 +20,5 @@ Using the stretched coordinate system the oscillator Hamiltonian acquires the fo
 
 - For the spherical case we added correction terms of the type: ![[Pasted image 20210805114500.png]]
 - A new $l$ is introduced, in order to correspond to the stretched coordinates: ![[Pasted image 20210805114536.png]]
+
+- A generalization of the Hamiltonian is done via: ![[Pasted image 20210805114905.png]]
