@@ -10,4 +10,9 @@
 
 - In a similar manner, the translational degrees of freedom are based upon the existence of a localized structure.
 - However. while the different states of translational motion of a given object are related by Lorentz invariance, there is no similar invariance applying to rotating coordinate frames. 
-- The Coriolis and centrifugal forces that act in such coordinate frames perturb the structure of a rotating object.
+- The Coriolis and centrifugal forces that act in such coordinate frames perturb the structure of a rotating object
+
+> Breaking of rotational invariance lead to the occurrence of rotational degrees of freedom
+
+> Localized structure implies the translational degrees of freedom
+
