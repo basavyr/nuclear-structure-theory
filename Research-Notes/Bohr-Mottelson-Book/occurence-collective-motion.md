@@ -16,3 +16,14 @@
 
 > Localized structure implies the translational degrees of freedom
 
+## Transformations on rotating sytems
+
+- Giving the Lorentz invariance that relates to different translational motion of a given object, there is no similar invariance applying to rotating coordinate frames.
+
+- **The Coriolis** and **centrifugal** forces that act in such coordinate frames perturb the structure of a rotating object
+
+- In a quantal system -> the frequency of even the lowest rotational excitations may be so large that the Coriolis and centrifugal forces affect the structure in a major way.
+
+- The *small perturbation regime* (i.e., **adiabatic condition**) for the perturbations is closely connected with the conditions that the zero-point fluctuations in the deformation parameters be small compared with the equilibrium values of these parameters.
+
+- The adiabatic condition provides an alternative way of expressing the criterion for the occurrence of rotational spectra
