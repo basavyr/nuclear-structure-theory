@@ -27,3 +27,7 @@
 - The *small perturbation regime* (i.e., **adiabatic condition**) for the perturbations is closely connected with the conditions that the zero-point fluctuations in the deformation parameters be small compared with the equilibrium values of these parameters.
 
 - The adiabatic condition provides an alternative way of expressing the criterion for the occurrence of rotational spectra
+
+- The Coriolis and centrifugal forces that act on rotating objects can perturb their states. In a quantal system, the frequency of the lowest rotational excitations may be so large that the Coriolis and centrifugal forces affect the structure in a major way
+
+- 
