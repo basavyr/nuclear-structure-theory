@@ -30,4 +30,8 @@
 
 - The Coriolis and centrifugal forces that act on rotating objects can perturb their states. In a quantal system, the frequency of the lowest rotational excitations may be so large that the Coriolis and centrifugal forces affect the structure in a major way
 
-- 
+## Adiabatic condition
+
+- The regime of small perturbations is called the adiabatic condition
+
+- The adiabatic condition is strongly connected with the condition that the *zero-point fluctuations* in the deformation parameters be small when compared to the equilibrium values.
