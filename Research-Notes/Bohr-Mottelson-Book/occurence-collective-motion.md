@@ -35,3 +35,5 @@
 - The regime of small perturbations is called the adiabatic condition
 
 - The adiabatic condition is strongly connected with the condition that the *zero-point fluctuations* in the deformation parameters be small when compared to the equilibrium values.
+
+- The equivalence between the adiabatic condition and the zero-point fluctuation in the deformation parameters: a system consisting of two particles bound together by a potential possessing a minimum for separation $R$ (the *equilibrium separation*). In this case, the motion of the system can be described in terms of **rotation** and **radial vibrations**. The frequency of the rotational motion, for the lowest states: $$\omega_{rot}\approx\frac{\hbar}{M_0R^2}$$ where $M_0$ is the **reduced mass**.
