@@ -41,3 +41,9 @@
 - The frequency of the vibrational motion depends on the amplitude $\Delta R$ of zero-point vibration: $$\omega_{vib}\approx\frac{\hbar}{M_0(\Delta R)^2}$$
 
 - The condition that the fluctuations in shape be small compared with the average deformation, $$\Delta R << R$$ is equivalent to the **adiabatic condition** $\omega_rot<<\omega_{vib}$ .
+
+- The relationship between members of a rotational band manifests itself in **the regularities of the energy spectra** and in **the intensity rules governing the transitions to different members** of a band.
+- For sufficiently small values of the rotational angular momentum, the analysis can be based on an expansion of energies and transition amplitudes in powers of the rotational frequency or angular momentum. 
+	- These expressions acquire a special simplicity for systems with axially symmetric shape and in this form are found to provide a basis for the interpretation of an extensive body of data on nuclear spectra
+	- The dependence of matrix elements on the rotational angular momentum reflects the response of the intrinsic motion to the Coriolis and centrifugal forces and can be analyzed in terms of the coupling between rotational bands based on different intrinsic structures.
+	- For large values of the angular momentum, the rotational perturbations may strongly modify the intrinsic structure of the system. The structure of nuclear matter under these extreme conditions is a matter of considerable current interest.

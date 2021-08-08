@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
+            "file": "Research-Notes/Bohr-Mottelson-Book/occurence-collective-motion.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
+            "file": "Research-Notes/Bohr-Mottelson-Book/occurence-collective-motion.md",
             "mode": "preview"
           }
         },
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -83,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
+                "file": "Research-Notes/Bohr-Mottelson-Book/occurence-collective-motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +121,7 @@
   },
   "active": "3506e3a9ace83622",
   "lastOpenFiles": [
+    "Research-Notes/Bohr-Mottelson-Book/occurence-collective-motion.md",
     "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
     "Research-Notes/Ragnarsson-Book/Untitled.md",
     "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
@@ -130,7 +130,6 @@
     "Research-Materials/su3.pdf",
     "Untitled.md",
     "Research-Notes/Ragnarsson-Book/rotational-bands.md",
-    "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md",
-    "Research-Materials/Ragnarsson-Book-Notes/Index/nilsson-model/Untitled.md"
+    "Research-Notes/Nuclear-Structure/collective-motion-unified-model.md"
   ]
 }
