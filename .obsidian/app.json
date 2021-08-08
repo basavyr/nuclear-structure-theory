@@ -13,7 +13,8 @@
     "anisotropy",
     "eigenfunction",
     "Nilsson",
-    "diagonalises"
+    "diagonalises",
+    "vibrational"
   ],
   "emacsyKeys": false
 }
