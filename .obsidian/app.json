@@ -16,7 +16,8 @@
     "diagonalises",
     "vibrational",
     "quantal",
-    "invariance"
+    "invariance",
+    "translational"
   ],
   "emacsyKeys": false
 }

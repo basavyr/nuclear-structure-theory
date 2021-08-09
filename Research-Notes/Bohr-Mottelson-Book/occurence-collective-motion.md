@@ -55,3 +55,6 @@
 
 - A separation of the motion into intrinsic and rotational components corresponds to a Hamiltonian of the form: ![](2021-08-09-12-56-16.png)
 - ![](2021-08-09-12-56-40.png)
+- The equation above is a product between two functions:
+	- the first function represents the quantum numbers that characterize the dynamics of the system
+	- the second term in the equation represents the quantum dynamics and the spin/rotational properties of the nuclear system
