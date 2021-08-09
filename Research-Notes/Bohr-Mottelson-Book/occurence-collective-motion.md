@@ -70,3 +70,7 @@
 	- ![[Pasted image 20210809194142.png]]
 - The orientation of a nuclear system in the three-dimensional space will involve three variables of **angular type**. These variables are in fact the three Euler angles $\omega=[\phi,\theta,\psi]$.
 	- ![[Pasted image 20210809194714.png]]
+
+### Components of angular momentum with respect to the intrinsic axes
+
+![[Pasted image 20210809194812.png]]
