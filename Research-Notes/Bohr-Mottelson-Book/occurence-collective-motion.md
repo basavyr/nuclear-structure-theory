@@ -49,3 +49,8 @@
 	- These expressions acquire a special simplicity for systems with axially symmetric shape and in this form are found to provide a basis for the interpretation of an extensive body of data on nuclear spectra
 	- The dependence of matrix elements on the rotational angular momentum reflects the response of the intrinsic motion to the Coriolis and centrifugal forces and can be analyzed in terms of the coupling between rotational bands based on different intrinsic structures.
 	- For large values of the angular momentum, the rotational perturbations may strongly modify the intrinsic structure of the system. The structure of nuclear matter under these extreme conditions is a matter of considerable current interest.
+
+## Symmetries of deformation
+### Rotational degrees of freedom
+
+- A separation of the motion into intrinsic and rotational components corresponds to a Hamiltonian of the form: ![](2021-08-09-12-56-16.png)
