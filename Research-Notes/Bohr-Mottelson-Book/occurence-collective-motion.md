@@ -56,4 +56,4 @@
 - The motion of a nuclear system can be separated into a part that describes the **intrinsic** components and the **rotational** components that belong to the total Hamiltonian of the system.
 - Such a Hamiltonian has the following form: ![[Pasted image 20210809190606.png]]
 	- Within the Hamiltonian shown above, the motion of the nuclear system is described by the **coordinates** $q$ and **conjugate momenta** $p$. These quantities are measured relative to the body-fixed frame. They are thus scalars with respect to rotations of external coordinate system
-	- The deformation of the system defines the orientation of the body-fixed frame -> the orientation is specified by the angular variables denoted by $\omega$
+	- The deformation of the system defines the orientation of the body-fixed frame -> the **orientation** is specified by the **angular variables** denoted by $\omega$
