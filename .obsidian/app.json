@@ -18,7 +18,8 @@
     "quantal",
     "invariance",
     "translational",
-    "eigenstates"
+    "eigenstates",
+    "azimuthal"
   ],
   "emacsyKeys": false
 }

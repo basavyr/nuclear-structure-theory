@@ -59,4 +59,12 @@
 	- The deformation of the system defines the orientation of the body-fixed frame -> the **orientation** is specified by the **angular variables** denoted by $\omega$
 	- The **rotational** Hamiltonian does not depend on the orientation $\omega$ (if no external forces act on the system) and it is a function of the conjugate angular momenta $P_\omega$.
 	- The labeling of the rotational Hamiltonian in the equation above, indicate that the rotational motion may depend on the quantum numbers that specify the intrinsic state.
-- The eigenstates of the Hamiltonian are of the product form: ![[Pasted image 20210809193454.png]] 
+- The eigenstates of the Hamiltonian are of the product form: ![[Pasted image 20210809193454.png]]
+- In the equation written above, for each intrinsic state $\alpha$, the spectrum will involve a sequence of rotational levels. 
+- The levels are specified by a set of **angular momentum quantum numbers** denoted by $I$. 
+
+### Degrees of Freedom associated with spatial rotations
+
+- rotational motion in two dimensions (rotation about **a fixed axes**) has a very simple structure
+- The orientation of the system is characterized by the **azimuthal angle** $\varphi$, and the state of motion by the eigenvalue M of the conjugate angular momentum. The associated rotational wave-function is:
+	- ![[Pasted image 20210809194142.png]]
