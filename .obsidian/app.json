@@ -14,7 +14,9 @@
     "eigenfunction",
     "Nilsson",
     "diagonalises",
-    "vibrational"
+    "vibrational",
+    "quantal",
+    "invariance"
   ],
   "emacsyKeys": false
 }
