@@ -68,3 +68,5 @@
 - rotational motion in two dimensions (rotation about **a fixed axes**) has a very simple structure
 - The orientation of the system is characterized by the **azimuthal angle** $\varphi$, and the state of motion by the eigenvalue M of the conjugate angular momentum. The associated rotational wave-function is:
 	- ![[Pasted image 20210809194142.png]]
+- The orientation of a nuclear system in the three-dimensional space will involve three variables of **angular type**. These variables are in fact the three Euler angles $\omega=[\phi,\theta,\psi]$.
+	- ![[Pasted image 20210809194714.png]]
