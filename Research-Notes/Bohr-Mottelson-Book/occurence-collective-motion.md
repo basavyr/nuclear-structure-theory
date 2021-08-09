@@ -75,7 +75,8 @@
 	- the third quantum numbers can be obtained by considering the components of $\mathbf{I}$ w.r.t. to an **intrinsic** or *body-fixed* coordinate system with a given orientation$\omega$.
 - The intrinsic components $I_{1,2,3}$ *commute* with the external components $I_{x,y,z}$, because $I_{1,2,3}$ are independent on the orientation of the external system (they are scalars).
 - The best commuting set of angular momentum variables are the squared total angular momentum, the component on the space-fixed system $I_x$ and the 3-component on the body-fixed (intrinsic) system $I_3$.
-
+- The eigenvalues of $I_3$ are denoted by $K$, and they have the same range values as does $M$ $$K=I,I-1,\dots -I$$.
+![[Pasted image 20210809200552.png]]
 ### Components of angular momentum with respect to the intrinsic axes
 
 ![[Pasted image 20210809194812.png]]
