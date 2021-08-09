@@ -74,9 +74,7 @@
 - The total angular momentum $I$ and its component $M=I_Z$ on a space-fixed axis provide two of these quantum numbers
 	- the third quantum numbers can be obtained by considering the components of $\mathbf{I}$ w.r.t. to an **intrinsic** or *body-fixed* coordinate system with a given orientation$\omega$.
 - The intrinsic components $I_{1,2,3}$ *commute* with the external components $I_{x,y,z}$, because $I_{1,2,3}$ are independent on the orientation of the external system (they are scalars).
-
-
-
+- The best commuting set of angular momentum variables are the squared total angular momentum, the component on the space-fixed system $I_x$ and the 3-component on the body-fixed (intrinsic) system $I_3$.
 
 ### Components of angular momentum with respect to the intrinsic axes
 
