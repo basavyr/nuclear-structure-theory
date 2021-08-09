@@ -70,6 +70,13 @@
 	- ![[Pasted image 20210809194142.png]]
 - The orientation of a nuclear system in the three-dimensional space will involve three variables of **angular type**. These variables are in fact the three Euler angles $\omega=[\phi,\theta,\psi]$.
 	- ![[Pasted image 20210809194714.png]]
+	- the three quantum numbers are needed in order to specify the state of motion
+- The total angular momentum $I$ and its component $M=I_Z$ on a space-fixed axis provide two of these quantum numbers
+	- the third quantum numbers can be obtained by considering the components of $\mathbf{I}$ w.r.t. to an **intrinsic** or *body-fixed* coordinate system with a given orientation$\omega$.
+- The intrinsic components $I_{1,2,3}$ *commute* with the external components $I_{x,y,z}$, because $I_{1,2,3}$ are independent on the orientation of the external system (they are scalars).
+
+
+
 
 ### Components of angular momentum with respect to the intrinsic axes
 
