@@ -57,3 +57,6 @@
 - Such a Hamiltonian has the following form: ![[Pasted image 20210809190606.png]]
 	- Within the Hamiltonian shown above, the motion of the nuclear system is described by the **coordinates** $q$ and **conjugate momenta** $p$. These quantities are measured relative to the body-fixed frame. They are thus scalars with respect to rotations of external coordinate system
 	- The deformation of the system defines the orientation of the body-fixed frame -> the **orientation** is specified by the **angular variables** denoted by $\omega$
+	- The **rotational** Hamiltonian does not depend on the orientation $\omega$ (if no external forces act on the system) and it is a function of the conjugate angular momenta $P_\omega$.
+	- The labeling of the rotational Hamiltonian in the equation above, indicate that the rotational motion may depend on the quantum numbers that specify the intrinsic state.
+- The eigenstates of the Hamiltonian are of the product form: ![[Pasted image 20210809193454.png]] 

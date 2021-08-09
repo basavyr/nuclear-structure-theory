@@ -17,7 +17,8 @@
     "vibrational",
     "quantal",
     "invariance",
-    "translational"
+    "translational",
+    "eigenstates"
   ],
   "emacsyKeys": false
 }
