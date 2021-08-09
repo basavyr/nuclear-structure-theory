@@ -54,3 +54,4 @@
 ### Rotational degrees of freedom
 
 - A separation of the motion into intrinsic and rotational components corresponds to a Hamiltonian of the form: ![](2021-08-09-12-56-16.png)
+- ![](2021-08-09-12-56-40.png)
