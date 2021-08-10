@@ -17,9 +17,7 @@
     "vibrational",
     "quantal",
     "invariance",
-    "translational",
-    "eigenstates",
-    "azimuthal"
+    "unfavored"
   ],
   "emacsyKeys": false
 }
