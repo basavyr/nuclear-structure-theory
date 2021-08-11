@@ -8,3 +8,4 @@
 - The rotated state ![[Pasted image 20210810201113.png]] is the state with magnetic quantum number $M'$ as viewed from the newly rotated system $H'$.
 - The states that correspond to the non-rotated system $H$, the magnetic quantum numbers refer to the eigenvalues of $I_3$.
 - The transformation from $H$ to the system $H'$ can be accomplished by the vector $\chi$. The direction of the vector itself is given by the set of polar angles $(\theta_x,\varphi_x)$ and it represents the axis of rotation, while the length $\chi$ is the angle of rotation.
+- The transformation from $H$ to a system $H'$ with arbitrary orientation with respect to $H$ can be decomposed into three rotations of the type: ![[Pasted image 20210811063750.png]], each rotation being done about a coordinate axis. The angles of rotation correspond to the three Euler angles $\omega$ as such: ![[Pasted image 20210811063929.png]]
