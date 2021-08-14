@@ -12,3 +12,4 @@
 - The rotation operator is a **unitary one**, and the expression of the non-rotated state can be expressed in terms of the Wigner functions and the rotated basis as such: ![[Pasted image 20210811151553.png]]
 - After the transformation from non-rotated to rotated coordinate systems, the matrix elements for the rotation operator $\mathcal{R}$ has the following form:![[Pasted image 20210811175144.png]]
 - The matrix element defined in the equation above has a certain dependence on the Euler angles $\psi$ and $\phi$: ![[Pasted image 20210811175258.png]]
+- Each rotated state can be expressed as a sum of products between the non-rotated states and the rotation operator, as described in the expression: ![[Pasted image 20210814080549.png]]
