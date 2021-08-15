@@ -17,7 +17,10 @@
     "vibrational",
     "quantal",
     "invariance",
-    "unfavored"
+    "unfavored",
+    "Systematics",
+    "quasiparticle",
+    "systematics"
   ],
   "emacsyKeys": false
 }
