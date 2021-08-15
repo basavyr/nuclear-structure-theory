@@ -13,3 +13,8 @@
 - After the transformation from non-rotated to rotated coordinate systems, the matrix elements for the rotation operator $\mathcal{R}$ has the following form:![[Pasted image 20210811175144.png]]
 - The matrix element defined in the equation above has a certain dependence on the Euler angles $\psi$ and $\phi$: ![[Pasted image 20210811175258.png]]
 - Each rotated state can be expressed as a sum of products between the non-rotated states and the rotation operator, as described in the expression: ![[Pasted image 20210814080549.png]]
+
+## Transformation between coordinate systems
+
+- The transformation from $H$ to a system $H'$ with arbitrary orientation with respect to $H$ can be decomposed into three rotations of the type ![[Pasted image 20210815070543.png]], each about a coordinate axis. 
+- The angles of rotation correspond to the three Euler angles $\omega = (\phi,\theta, \psi)$ needed to specify the orientation (see Fig. 1A-1) that is shown below. ![[Pasted image 20210815070746.png]]
