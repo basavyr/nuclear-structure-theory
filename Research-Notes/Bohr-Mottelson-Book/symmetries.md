@@ -10,7 +10,9 @@
 
 - The three quantum numbers $I$, $K$, and $M$ are used to define *the rotational wave function*: ![[Pasted image 20210818125828.png]]
 - If the projection $K$ is null, the Wigner functions are equivalent to the spherical harmonics: ![[Pasted image 20210818125908.png]]
-
+- ![[Pasted image 20210818214059.png]]
+- The equation above describes the stationary states considered as a superposition of components with different values of $K$.
+- The third rotational quantum number is denoted by $\tau$ and the amplitudes $c_{\tau I}(K)$ depend on the relative magnitude of the moment of inertia (see section 4-5).
 
 ## $\mathcal{R}$ invariance
 
