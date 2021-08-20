@@ -16,6 +16,11 @@
 
 ## $\mathcal{R}$ invariance
 
+Source: ![[Pasted image 20210820132107.png]]
+
+- The reduction of the rotational degrees of freedom follows if the intrinsic Hamiltonian is invariant with respect to rotations of $180^\circ$ about an axis that is perpendicular to the symmetry axis.
+- The rotations that take place about different axes perpendicular to the symmetry axis are equivalent.
+
 ### Pre-requisites
 
 - The intrinsic Hamiltonian of the nuclear system has the property of invariance with respect to rotation of $180^\circ$ about an axis that is **perpendicular** to the *symmetry axis*.
