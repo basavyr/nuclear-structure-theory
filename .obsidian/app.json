@@ -20,7 +20,8 @@
     "unfavored",
     "Systematics",
     "quasiparticle",
-    "systematics"
+    "systematics",
+    "azimuthal"
   ],
   "emacsyKeys": false
 }
