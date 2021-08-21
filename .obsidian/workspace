@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Bohr-Mottelson-Book/symmetries.md",
+            "file": "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Bohr-Mottelson-Book/symmetries.md",
+            "file": "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Bohr-Mottelson-Book/symmetries.md",
+                "file": "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +121,9 @@
   },
   "active": "3506e3a9ace83622",
   "lastOpenFiles": [
+    "Research-Notes/Bohr-Mottelson-Book/Untitled.md",
     "Research-Notes/Bohr-Mottelson-Book/symmetries.md",
     "Research-Notes/P-Ring-Book/symmetries.md",
-    "Research-Notes/Bohr-Mottelson-Book/Untitled.md",
     "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
     "Research-Notes/Research-Materials.md",
     "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
