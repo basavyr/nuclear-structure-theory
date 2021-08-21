@@ -8,3 +8,6 @@
 	- the $M$ component on the *space-fixed axis*-$I_z$ (space-fixed coordinate system)
 	- the $K$ component of the *body-fixed axis*-$I_3$ (body-fixed coordinate system)
 		- The third quantum number can be obtained by considering the components of $\vec{I}$ w.r.t. to *the intrinsic* (or body-fixed) coordinate system with given **orientation** $\omega$.
+		- The diagram shown below aims at depicting the difference between the intrinsic coordinate system and the space-fixed (or the *laboratory*) system. 
+  
+  ![](nuclear-body-orientation.png)
