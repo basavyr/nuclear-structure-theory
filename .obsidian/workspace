@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3506e3a9ace83622",
+        "id": "b3d5884bd8ca91e5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1A-41.md",
+            "file": "1A-34.md",
             "mode": "source"
           }
         },
         "group": "6f230bc2c1218b8c"
       },
       {
-        "id": "b3d5884bd8ca91e5",
+        "id": "d59ac7e14ac24e4c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1A-41.md",
+            "file": "1A-34.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1A-41.md",
+                "file": "1A-34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3506e3a9ace83622",
+  "active": "b3d5884bd8ca91e5",
   "lastOpenFiles": [
-    "1A-41.md",
+    "1A-34.md",
     "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
-    "Research-Notes/Bohr-Mottelson-Book/Untitled.md",
+    "Research-Notes/Bohr-Mottelson-Book/rotational-matrices-wignerD.md",
     "Research-Notes/Bohr-Mottelson-Book/symmetries.md",
+    "1A-41.md",
+    "Research-Notes/Bohr-Mottelson-Book/Untitled.md",
     "Research-Notes/P-Ring-Book/symmetries.md",
     "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
     "Research-Notes/Research-Materials.md",
-    "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md",
-    "Research-Notes/Ragnarsson-Book/moments-of-inertia.md",
-    "Research-Notes/Bohr-Mottelson-Book/rotational-matrices-wginerF.md"
+    "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md"
   ]
 }
