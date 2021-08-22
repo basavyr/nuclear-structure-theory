@@ -29,3 +29,10 @@
 	- The scalar product between the **zero-orientation** and a rotated state $|IKM'\rangle$ will vanish, unless $M'=K$.
 		- This happens because both components of the total angular momentum $I_3$ and $I_z$ are equal when acting on the state $|\omega_0=0\rangle$. This arises from ![[Pasted image 20210822130957.png]]
 	- The rotational wave-function described above #normalized-wave-function can be written in a *normalized* form, using the equation [[1A-41]] via the choice of phase: $$\Phi_{IKM}(\omega)=\left(\frac{2I+1}{8\pi^2}\right)^{1/2}\mathcal{D}^I_{MK}(\omega)$$
+
+## Wigner-D physical significance
+
+- The $\mathcal{D}$ functions can be viewed as the wave functions describing the **orientation** of a dynamical system with:
+	- specified angular momentum quantum numbers
+- In the case of a **single particle (spin-zero) in a potential** (or the relative motion of two particles without spin), the intrinsic angular momentum $K$ is constrained to have the value zero
+	- the orientation wave-function reduce to the more familiar spherical harmonics

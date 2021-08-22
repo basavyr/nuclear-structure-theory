@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1A-34.md",
+            "file": "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1A-34.md",
+            "file": "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
             "mode": "preview"
           }
         },
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1A-34.md",
+                "file": "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,8 +121,8 @@
   },
   "active": "b3d5884bd8ca91e5",
   "lastOpenFiles": [
-    "1A-34.md",
     "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
+    "1A-34.md",
     "Research-Notes/Bohr-Mottelson-Book/rotational-matrices-wignerD.md",
     "Research-Notes/Bohr-Mottelson-Book/symmetries.md",
     "1A-41.md",
