@@ -36,3 +36,6 @@
 	- specified angular momentum quantum numbers
 - In the case of a **single particle (spin-zero) in a potential** (or the relative motion of two particles without spin), the intrinsic angular momentum $K$ is constrained to have the value zero
 	- the orientation wave-function reduce to the more familiar spherical harmonics
+- While $\vec{I}^2$ and $I_z$ are constants of the motion for any system with rotational invariance:
+	- the commutator of the Hamiltonian $H$ with $I_3$ depends on the intrinsic dynamics of the system
+	- the stationary states do not possess a definite $K$ value
