@@ -19,3 +19,13 @@
 
 ## Wave functions describing orientation of intrinsic system
 
+- This sub-section is devoted to the explanation of the workflow involved in obtaining the formula ![[Pasted image 20210822123513.png]]
+- The **state of orientation** of the body-fixed system is completely specified by the three angular momentum quantum numbers $IKM$
+	- These three numbers represent the conjugates of the three orientation angles $\omega=(\phi,\theta,\psi)$.
+	- The transformation [[1A-34]] is required in order to pass from the basis set $|\omega\rangle$ with a *sharply defined orientation* to the basis set $|IKM\rangle$. This is applied to a coordinate system $H'$ with orientation $\omega$ w.r.t. to $H$ ![[Pasted image 20210822124036.png]]
+	- The state $|\omega\rangle$ with orientation $\omega$ w.r.t to $H$ has the orientation $\omega_0=0$ w.r.t to $H'$. ![[Pasted image 20210822124721.png]]
+	- Using these two statements from above, the following relation holds:
+		- ![[Pasted image 20210822125017.png]] #rotational-wave-function
+	- The scalar product between the **zero-orientation** and a rotated state $|IKM'\rangle$ will vanish, unless $M'=K$.
+		- This happens because both components of the total angular momentum $I_3$ and $I_z$ are equal when acting on the state $|\omega_0=0\rangle$. This arises from ![[Pasted image 20210822130957.png]]
+	- The rotational wave-function described above #normalized-wave-function can be written in a *normalized* form, using the equation [[1A-41]] via the choice of phase: $$\Phi_{IKM}(\omega)=\left(\frac{2I+1}{8\pi^2}\right)^{1/2}\mathcal{D}^I_{MK}(\omega)$$
