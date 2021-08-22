@@ -39,3 +39,7 @@
 - While $\vec{I}^2$ and $I_z$ are constants of the motion for any system with rotational invariance:
 	- the commutator of the Hamiltonian $H$ with $I_3$ depends on the intrinsic dynamics of the system
 	- the stationary states do not possess a definite $K$ value
+
+
+## Transformation laws for the rotational wave function as described by the three quantum numbers $IKM$
+![[Pasted image 20210822133547.png]]
