@@ -13,3 +13,9 @@
   ![](nuclear-body-orientation.png)
   
   - If the three quantum numbers that define the state of motion for the nuclear body are known/defined, then the rotational wave function is given by the expression: $$\varphi_{IKM}(\omega)=\left(\frac{2I+1}{8\pi^2}\right)^{1/2}\mathcal{D}^I_{MK}(\omega)$$
+  - The above formula can be obtained by applying a transformation from the **fixed coordinate system** to a **rotated coordinate system** which coincides with the intrinsic frame. This kind of transformation is described in Bohr's NS-I book #bohrNS1.
+	  - ![[Pasted image 20210822121608.png]]
+	  - ![[Pasted image 20210822123150.png]]
+
+## Wave functions describing orientation of intrinsic system
+
