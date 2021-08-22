@@ -43,3 +43,8 @@
 
 ## Transformation laws for the rotational wave function as described by the three quantum numbers $IKM$
 ![[Pasted image 20210822133547.png]]
+
+- For null $K$, the Wigner functions reduce to the well-known spherical harmonics ![[Pasted image 20210822133649.png]]
+- For $K=0$ the rotational wave function is the same as for the angular motion of a **point particle with no spin**.
+- For $K$ finite, the rotational motion corresponds to the angular motion of a particle with helicity $h=K$.
+
