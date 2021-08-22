@@ -21,7 +21,8 @@
     "Systematics",
     "quasiparticle",
     "systematics",
-    "azimuthal"
+    "azimuthal",
+    "orthonormal"
   ],
   "emacsyKeys": false
 }
