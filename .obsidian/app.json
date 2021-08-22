@@ -22,7 +22,9 @@
     "quasiparticle",
     "systematics",
     "azimuthal",
-    "orthonormal"
+    "orthonormal",
+    "helicity",
+    "rotationally"
   ],
   "emacsyKeys": false
 }

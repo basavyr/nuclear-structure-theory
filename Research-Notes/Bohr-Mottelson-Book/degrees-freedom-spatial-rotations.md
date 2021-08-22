@@ -48,3 +48,8 @@
 - For $K=0$ the rotational wave function is the same as for the angular motion of a **point particle with no spin**.
 - For $K$ finite, the rotational motion corresponds to the angular motion of a particle with helicity $h=K$.
 
+## Constants of motion
+
+- while $\mathbf{I}^2$ and $I_z$ are constants of motion for any rotationally invariant Hamiltonian, the commutator of $I_3$ with the Hamiltonian depends on the intrinsic properties of the system
+- The stationary states involve a **superposition** of components with different  values of $K$ ![[Pasted image 20210822134058.png]]
+- The third rotational quantum number is denoted by $\tau$, and the amplitudes $c_{\tau I}(K)$ depend on the relative magnitude of the [[moments-of-inertia]] (discussion in section 4-5).
