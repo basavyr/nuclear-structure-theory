@@ -26,5 +26,7 @@
     "helicity",
     "rotationally"
   ],
-  "emacsyKeys": false
+  "emacsyKeys": false,
+  "readableLineLength": true,
+  "strictLineBreaks": false
 }

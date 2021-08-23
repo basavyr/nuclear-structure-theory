@@ -4,6 +4,7 @@ Indexing all the main subjects within the tree `Research-Materials`, and providi
 
 ## Collection Index
 
-| File name 📄 | Topic 📚 | Priority ➡️ | File location 🔎 | 
-| --------- | ----- | -------- | --- |
-|           |       |          |     |
+| File name 📄                         | Topic 📚         | Priority ➡️ | File location 🔎                                                                                                                                                         | Main ideas ⭐️ |
+| ------------------------------------ | ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| `triaxiality_in_signature_inversion` | Rotational bands | *Medium*    | `/Users/robertpoenaru/Library/Mobile Documents/com~apple~CloudDocs/Work/Pipeline/DFT/nuclear-structure-theory/Research-Materials/triaxiality_in_signature_inversion.pdf` |                |
+|                                      |                  |             |                                                                                                                                                                          |                |
