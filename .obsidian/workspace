@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "c6bee6e2a684b6b5",
+        "id": "c502cba85c41da31",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Research-Notes/Research-Materials.md",
+            "file": "Research-Notes/Bohr-Mottelson-Book/axial-symmetry.md",
+            "mode": "source"
+          }
+        },
+        "group": "1fee4320a25aa218"
+      },
+      {
+        "id": "8dfed807ac6befa8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Research-Notes/Bohr-Mottelson-Book/axial-symmetry.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "1fee4320a25aa218"
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-Notes/Research-Materials.md",
+                "file": "Research-Notes/Bohr-Mottelson-Book/axial-symmetry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c6bee6e2a684b6b5",
+  "active": "c502cba85c41da31",
   "lastOpenFiles": [
-    "Research-Notes/Research-Materials.md",
+    "Untitled.md",
     "Research-Notes/Bohr-Mottelson-Book/degrees-freedom-spatial-rotations.md",
+    "Research-Notes/Research-Materials.md",
     "1A-34.md",
     "Research-Notes/Bohr-Mottelson-Book/rotational-matrices-wignerD.md",
     "Research-Notes/Bohr-Mottelson-Book/symmetries.md",
     "1A-41.md",
     "Research-Notes/Bohr-Mottelson-Book/Untitled.md",
     "Research-Notes/P-Ring-Book/symmetries.md",
-    "Research-Notes/Ragnarsson-Book/streched-coordinates.md",
-    "Research-Notes/Ragnarsson-Book/sp-orbitals-deformed-nuclei.md"
+    "Research-Notes/Ragnarsson-Book/streched-coordinates.md"
   ]
 }
