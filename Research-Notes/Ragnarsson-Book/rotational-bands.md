@@ -24,7 +24,7 @@
 	- This is seen from the fact that such a rotation would change only a trivial phase factor in the wave function
 	-  collective rotation is characterized by small angular momentum contributions from a large number of particles, i.e. the wave functions of these particles change slowly with increasing angular momentum.
 	- ⚠️  What has been said above implies that only deformed nuclei can rotate collectively and, if the nucleus is axially symmetric, the only possible rotation axis is perpendicular to the symmetry axis.
-	- For collective rotation, it is then also possible to define one moment of inertia $\matchal{J}$ , leading to the following Hamiltonian:
+	- For collective rotation, it is then also possible to define one moment of inertia $\mathcal{J}$ , leading to the following Hamiltonian:
 	- $$H_{rot}=\frac{\vec{R}^2}{2\mathcal{J}}$$
 	- $\vec{R}$ is the *collective angular momentum*. For pure collective rotations, the total angular momentum (it is also referred to as total spin) $\vec{I}$ is equal to $\vec{R}$. The spectrum thus takes the form:
 	- $$E_I=\frac{\hbar^2}{2\mathcal{J}}I(I+1)$$
